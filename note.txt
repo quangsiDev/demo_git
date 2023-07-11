@@ -24,3 +24,5 @@ git config user.email "quangsi@gmail.com"
 
 + Lấy source từ 1 repo
 - git clone url . : clone source vào folder hiện tại
+- git pull : lấy code mới nhất từ remote
+
