@@ -1,2 +1,7 @@
-git init : khởi tạo repo local
-git remote add origin https://github.com/quangsi/demo_git.git  : liên kế repo local và repo remote
+- git init : khởi tạo repo local
+- git remote add origin https://github.com/quangsi/demo_git.git  : liên kế repo local và repo remote
+
++ đẩy code từ local lên remote : 3 bước
+- git add -A : chọn
+- git commit -m "tao ra trang home": xác nhận và ghi kèm chú thích 
+- git push -u origin master
