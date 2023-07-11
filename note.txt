@@ -1,0 +1,2 @@
+git init : khởi tạo repo local
+git remote add origin https://github.com/quangsi/demo_git.git  : liên kế repo local và repo remote
