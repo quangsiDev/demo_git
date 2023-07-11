@@ -18,3 +18,5 @@ git config user.email "quangsi@gmail.com"
  - branch : nhánh
  - git checkout -b login : tạo ra nhánh login từ nhánh hiện tại
  - git branch : list các branch hiện có
+
+ - git merge login : đưa code từ nhánh login về nhánh hiện tại
