@@ -20,3 +20,7 @@ git config user.email "quangsi@gmail.com"
  - git branch : list các branch hiện có
 
  - git merge login : đưa code từ nhánh login về nhánh hiện tại
+
+
++ Lấy source từ 1 repo
+- git clone url . : clone source vào folder hiện tại
